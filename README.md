@@ -10,3 +10,6 @@ Every Spring Boot project contains the following.
 
 ![image](https://github.com/user-attachments/assets/85f7784e-d400-4dd4-a3a1-465edfbb026e)
 
+Spring Initiliazer Dependencies
+
+![image](https://github.com/user-attachments/assets/42db5b3c-05dc-4195-8d95-5a8a2087c41a)
